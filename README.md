@@ -49,6 +49,7 @@ plugin.
 * [Anti Anti](https://github.com/brock7/xdbg): Open-source user-mode Anti-Anti-Debug plugin.
 * [ScyllaHide](https://github.com/x64dbg/ScyllaHide): https://github.com/x64dbg/ScyllaHide
 * [Highlightfish](https://github.com/Insid3CodeTeam/Highlightfish): Plugin to customize x64dbg.
+* [TitanHide](https://github.com/mrexodia/TitanHide): It is a driver intended to hide debuggers from certain processes.
 
 ## OllyDBG Plugins
 * [OllyDumpEx](https://tuts4you.com/download/3451/): This plugin is process memory dumper for OllyDbg.
