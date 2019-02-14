@@ -3,6 +3,12 @@ A curated list of IDA x64DBG and OllyDBG plugins. [IDA](https://www.hex-rays.com
 
 ## Content
 
+<!--ts-->
+   * [IDA Plugins](#IDA Plugins)
+   * [X64dbg Plugins](#x64dbg Plugins)
+   * [OllyDBG Plugins](#OllyDBG PLugins)
+<!--te-->
+
 ## IDA Plugins
 
 * [Lazy ida](https://github.com/L4ys/LazyIDA): Add functionalities such as function return removing, converting data, scanning for string vulnerabilities. 
@@ -30,7 +36,7 @@ plugin.
 * [IDAScope](https://bitbucket.org/daniel_plohmann/simplifire.idascope):  It consists of multiple tabs, containing functionality to achieve different goals such as fast identification of semantically interesting locations.
 * [HexRayPytools](https://github.com/igogo-x86/HexRaysPyTools): Assist in the creation of classes/structures and detection of virtual tables. 
 
-## x64DBG Plugins
+## x64dbg Plugins
 * [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
 * [ClawSearch](https://github.com/codecat/ClawSearch): A memory scanner plugin for x64dbg, inspired by Cheat Engine.
 * [x64DBGPYLIB](https://github.com/x64dbg/x64dbgpylib): Port of windbglib to x64dbgpy, in an effort to support mona.py in x64dbg.
@@ -50,10 +56,3 @@ plugin.
 * [Phantom](https://tuts4you.com/download/1276/): Anti anti-debug trick.
 * [TLSCatch 0.3](https://tuts4you.com/download/3014/): This plugin simply intercepts any new module loaded into the current process address space, searches it for TLS callbacks.
 * [AnalyzeThis](https://tuts4you.com/download/2848/): Assisting for unpacking. 
-
-
-
-
-
-
-
