@@ -4,9 +4,9 @@ A curated list of IDA x64DBG and OllyDBG plugins. [IDA](https://www.hex-rays.com
 ## Content
 
 <!--ts-->
-   * [IDA Plugins](#IDA Plugins)
-   * [X64dbg Plugins](#x64dbg Plugins)
-   * [OllyDBG Plugins](#OllyDBG PLugins)
+   * [IDA Plugins](#IDA-Plugins)
+   * [X64dbg Plugins](#x64dbg-Plugins)
+   * [OllyDBG Plugins](#OllyDBG-PLugins)
 <!--te-->
 
 ## IDA Plugins
