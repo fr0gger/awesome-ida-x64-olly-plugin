@@ -5,7 +5,6 @@ A curated list of IDA x64DBG and OllyDBG plugins. [IDA](https://www.hex-rays.com
 
 ## IDA Plugins
 
-* [HexRayPytools](https://github.com/igogo-x86/HexRaysPyTools): Assist in the creation of classes/structures and detection of virtual tables. 
 * [Lazy ida](https://github.com/L4ys/LazyIDA): Add functionalities such as function return removing, converting data, scanning for string vulnerabilities. 
 * [IDAemu](https://github.com/36hours/idaemu): Use for emulating code in IDA Pro. It is based on unicorn-engine.
 * [IDA_EA](https://github.com/1111joe1111/ida_ea): A set of exploitation/reversing aids for IDA.
@@ -29,10 +28,28 @@ plugin.
 * [Driver Buddy](https://github.com/nccgroup/DriverBuddy): It assist with the reverse engineering of Windows kernel drivers.
 * [Heap Viewer](https://github.com/danigargu/heap-viewer): Used to examine the glibc heap, focused on exploit development.
 * [IDAScope](https://bitbucket.org/daniel_plohmann/simplifire.idascope):  It consists of multiple tabs, containing functionality to achieve different goals such as fast identification of semantically interesting locations.
+* [HexRayPytools](https://github.com/igogo-x86/HexRaysPyTools): Assist in the creation of classes/structures and detection of virtual tables. 
 
+## x64DBG Plugins
+* [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
+* [ClawSearch](https://github.com/codecat/ClawSearch): A memory scanner plugin for x64dbg, inspired by Cheat Engine.
+* [x64DBGPYLIB](https://github.com/x64dbg/x64dbgpylib): Port of windbglib to x64dbgpy, in an effort to support mona.py in x64dbg.
+* [xAnalyzer](https://github.com/ThunderCls/xAnalyzer): It is capable of doing various types of analysis over the static code of the debugged application to give more extra information to the user. 
+* [x64DBGIDA](https://github.com/x64dbg/x64dbgida): Official x64dbg plugin for IDA Pro.
+* [x64dbg Dark Theme](https://github.com/nextco/x64dbg-dark): Simple dark theme. 
+* [X64DBG YaraGen](https://github.com/mrexodia/YaraGen): Generate Yara rules from function basic blocks.
+* [Diff](https://github.com/mrexodia/Diff): Very simple plugin to diff a section in memory with a file.
+* [Unpacking Script](https://github.com/x64dbg/Scripts): Unpacking script for x64dbg.
+* [Anti Anti](https://github.com/brock7/xdbg): Open-source user-mode Anti-Anti-Debug plugin.
+* [ScyllaHide](https://github.com/x64dbg/ScyllaHide): https://github.com/x64dbg/ScyllaHide
+* [Highlightfish](https://github.com/Insid3CodeTeam/Highlightfish): Plugin to customize x64dbg.
 
-## X64DBG Plugins
-
+## OllyDBG Plugins
+* [OllyDumpEx](https://tuts4you.com/download/3451/): This plugin is process memory dumper for OllyDbg.
+* [OllyDeobfuscator](https://tuts4you.com/download/3549/): Deobfuscator for Olly.
+* [Phantom](https://tuts4you.com/download/1276/): Anti anti-debug trick.
+* [TLSCatch 0.3](https://tuts4you.com/download/3014/): This plugin simply intercepts any new module loaded into the current process address space, searches it for TLS callbacks.
+* [AnalyzeThis](https://tuts4you.com/download/2848/): Assisting for unpacking. 
 
 
 
