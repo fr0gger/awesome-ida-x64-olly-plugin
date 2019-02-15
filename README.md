@@ -32,7 +32,7 @@ plugin.
 * [Yaco](https://github.com/DGA-MI-SSI/YaCo): Collaborative Reverse-Engineering for IDA.
 * [IDASignSrch](https://sourceforge.net/projects/idasignsrch/): It can recognize tons of compression, multimedia and encryption algorithms and many other things like known strings and anti-debugging code.
 * [Findcrypt2](http://www.hex-rays.com/idapro/freefiles/findcrypt.zip): It searches constants known to be associated with cryptographic algorithm in the code.
-* [Driver Buddy](https://github.com/nccgroup/DriverBuddy): It assist with the reverse engineering of Windows kernel drivers.
+* [Driver Buddy](https://github.com/nccgroup/DriverBuddy): It assists with the reverse engineering of Windows kernel drivers.
 * [Heap Viewer](https://github.com/danigargu/heap-viewer): Used to examine the glibc heap, focused on exploit development.
 * [IDAScope](https://bitbucket.org/daniel_plohmann/simplifire.idascope):  It consists of multiple tabs, containing functionality to achieve different goals such as fast identification of semantically interesting locations.
 * [HexRayPytools](https://github.com/igogo-x86/HexRaysPyTools): Assist in the creation of classes/structures and detection of virtual tables. 
