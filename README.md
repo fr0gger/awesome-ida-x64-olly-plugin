@@ -11,6 +11,7 @@ A curated list of IDA x64DBG and OllyDBG plugins. [IDA](https://www.hex-rays.com
 
 ## IDA Plugins
 
+* [Keypatch](http://keystone-engine.org/keypatch): Friendly assembly-level patching/searching plugin (using multi-arch assembler framework [Keystone engine](http://keystone-engine.org) inside). 
 * [Lazy ida](https://github.com/L4ys/LazyIDA): Add functionalities such as function return removing, converting data, scanning for string vulnerabilities. 
 * [IDAemu](https://github.com/36hours/idaemu): Use for emulating code in IDA Pro. It is based on unicorn-engine.
 * [IDA_EA](https://github.com/1111joe1111/ida_ea): A set of exploitation/reversing aids for IDA.
