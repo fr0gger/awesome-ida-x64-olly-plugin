@@ -36,6 +36,8 @@ plugin.
 * [Heap Viewer](https://github.com/danigargu/heap-viewer): Used to examine the glibc heap, focused on exploit development.
 * [IDAScope](https://bitbucket.org/daniel_plohmann/simplifire.idascope):  It consists of multiple tabs, containing functionality to achieve different goals such as fast identification of semantically interesting locations.
 * [HexRayPytools](https://github.com/igogo-x86/HexRaysPyTools): Assist in the creation of classes/structures and detection of virtual tables. 
+* [Ponce](https://github.com/illera88/Ponce): Symbolic Execution just one-click away!
+* [idenLib.py](https://github.com/secrary/IDA-scripts/tree/master/idenLib): [idenLib](https://github.com/secrary/idenLib) (Library Function Identification ) plugin for `IDA Pro`
 
 ## x64dbg Plugins
 * [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
@@ -51,6 +53,7 @@ plugin.
 * [ScyllaHide](https://github.com/x64dbg/ScyllaHide): https://github.com/x64dbg/ScyllaHide
 * [Highlightfish](https://github.com/Insid3CodeTeam/Highlightfish): Plugin to customize x64dbg.
 * [TitanHide](https://github.com/mrexodia/TitanHide): It is a driver intended to hide debuggers from certain processes.
+* [idenLibX](https://github.com/secrary/idenLibX): [idenLib](https://github.com/secrary/idenLib) (Library Function Identification ) plugin for `x32dbg`/`x64dbg`
 
 ## OllyDBG Plugins
 * [OllyDumpEx](https://tuts4you.com/download/3451/): This plugin is process memory dumper for OllyDbg.
