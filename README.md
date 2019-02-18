@@ -39,6 +39,7 @@ plugin.
 * [Ponce](https://github.com/illera88/Ponce): Symbolic Execution just one-click away!
 * [idenLib.py](https://github.com/secrary/IDA-scripts/tree/master/idenLib): [idenLib](https://github.com/secrary/idenLib) (Library Function Identification ) plugin for `IDA Pro`
 * [J.A.R.V.I.S](https://github.com/carlosgprado/JARVIS) A plugin for IDA Pro to assist you with the most common reversing tasks. It integrates with the (J.A.R.V.I.S) tracer.
+* [golang_loader_assist](https://github.com/strazzere/golang_loader_assist): Making GO reversing easier in IDA Pro
 
 ## x64dbg Plugins
 * [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
