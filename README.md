@@ -43,6 +43,7 @@ plugin.
 * [FindYara](https://github.com/OALabs/FindYara): IDA python plugin to scan binary with yara rules.
 * [Karta](https://github.com/CheckPointSW/Karta): Source code assisted fast binary matching plugin for IDA
 * [VT-IDA-PLUGIN](https://github.com/VirusTotal/vt-ida-plugin): This plugin integrates functionality from VirusTotal web services into the IDA Pro's user interface.
+* [mkYARA](https://github.com/fox-it/mkYARA): mkYARA comes with a IDA plugin to easily create YARA signatures by selecting a set of instructions and choosing one of the mkYARA -> Generate YARA rule options.
 
 ## x64dbg Plugins
 * [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
