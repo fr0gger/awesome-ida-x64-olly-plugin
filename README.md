@@ -45,6 +45,7 @@ plugin.
 * [VT-IDA-PLUGIN](https://github.com/VirusTotal/vt-ida-plugin): This plugin integrates functionality from VirusTotal web services into the IDA Pro's user interface.
 * [mkYARA](https://github.com/fox-it/mkYARA): mkYARA comes with a IDA plugin to easily create YARA signatures by selecting a set of instructions and choosing one of the mkYARA -> Generate YARA rule options.
 * [Oregami](https://github.com/shemesh999/oregami): IDA plugins and scripts for analyzing register usage frame.
+* [IDA_IFL](https://github.com/hasherezade/ida_ifl): A small plugin with a goal to provide user-friendly way to navigate between functions and their references.
 
 ## x64dbg Plugins
 * [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
