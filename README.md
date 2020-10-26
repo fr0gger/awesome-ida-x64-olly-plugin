@@ -47,6 +47,7 @@ plugin.
 * [Oregami](https://github.com/shemesh999/oregami): IDA plugins and scripts for analyzing register usage frame.
 * [IDA_IFL](https://github.com/hasherezade/ida_ifl): A small plugin with a goal to provide user-friendly way to navigate between functions and their references.
 * [xray](https://github.com/patois/xray): xray is a plugin for the Hexrays decompiler that both filters and colorizes the textual representation of the decompiler's output based on configurable regular expressions.
+* [Lighthouse](https://github.com/gaasedelen/lighthouse): Lighthouse is a powerful code coverage plugin for IDA Pro and Binary Ninja. As an extension of the leading disassemblers, this plugin enables one to interactively explore code coverage data in new and innovative ways when symbols or source may not be available for a given binary.
 
 ## x64dbg Plugins
 * [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
