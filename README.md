@@ -46,6 +46,7 @@ plugin.
 * [mkYARA](https://github.com/fox-it/mkYARA): mkYARA comes with a IDA plugin to easily create YARA signatures by selecting a set of instructions and choosing one of the mkYARA -> Generate YARA rule options.
 * [Oregami](https://github.com/shemesh999/oregami): IDA plugins and scripts for analyzing register usage frame.
 * [IDA_IFL](https://github.com/hasherezade/ida_ifl): A small plugin with a goal to provide user-friendly way to navigate between functions and their references.
+* [xray](https://github.com/patois/xray): xray is a plugin for the Hexrays decompiler that both filters and colorizes the textual representation of the decompiler's output based on configurable regular expressions.
 
 ## x64dbg Plugins
 * [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
