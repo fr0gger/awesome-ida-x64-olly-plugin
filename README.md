@@ -49,6 +49,7 @@ plugin.
 * [xray](https://github.com/patois/xray): xray is a plugin for the Hexrays decompiler that both filters and colorizes the textual representation of the decompiler's output based on configurable regular expressions.
 * [Lighthouse](https://github.com/gaasedelen/lighthouse): Lighthouse is a powerful code coverage plugin for IDA Pro and Binary Ninja. As an extension of the leading disassemblers, this plugin enables one to interactively explore code coverage data in new and innovative ways when symbols or source may not be available for a given binary.
 * [CAPA Explorer](https://github.com/fireeye/capa/tree/master/capa/ida/plugin): Capa explorer is an IDA Pro plugin written in Python that integrates the FLARE team's open-source framework, capa, with IDA.
+* [Ghida](https://github.com/Cisco-Talos/GhIDA): GhIDA is an IDA Pro plugin that integrates the Ghidra decompiler in IDA.
 
 ## x64dbg Plugins
 * [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
