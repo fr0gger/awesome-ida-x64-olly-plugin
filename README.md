@@ -1,4 +1,4 @@
-# Awesome IDA, x64DBG & OllyDBG plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome IDA, Ghidra, x64DBG & OllyDBG plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of IDA x64DBG and OllyDBG plugins. [IDA](https://www.hex-rays.com/products/ida/) is a powerful disassembler and debugger that allows to analyze binary, it also includes a decompiler. [X64DBG](https://x64dbg.com/#start) is an open-source x64/x32 debugger for Windows. [OllyDbg](http://www.ollydbg.de/) is a 32-bit assembler level analysing debugger for Windows.
 
 ## Content
@@ -51,6 +51,13 @@ plugin.
 * [CAPA Explorer](https://github.com/fireeye/capa/tree/master/capa/ida/plugin): Capa explorer is an IDA Pro plugin written in Python that integrates the FLARE team's open-source framework, capa, with IDA.
 * [Ghida](https://github.com/Cisco-Talos/GhIDA): GhIDA is an IDA Pro plugin that integrates the Ghidra decompiler in IDA.
 * [vt-ida-plugin](https://github.com/VirusTotal/vt-ida-plugin): This plugin integrates functionality from VirusTotal web services into the IDA Pro's user interface.
+
+## Ghidra Plugins
+* [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
+* [Ghidra Scripts 2](https://github.com/AllsafeCyberSecurity/ghidra_scripts): Ghidra script for malware analysis. 
+* [Findcrypt](https://github.com/d3v1l401/FindCrypt-Ghidra): IDA Pro's FindCrypt ported to Ghidra, with an updated and customizable signature database.
+* [Lazy Ghidra](https://github.com/AllsafeCyberSecurity/LazyGhidra): Make your Ghidra Lazy.
+* [Pcode Emulator](https://github.com/kc0bfv/pcode-emulator): A PCode Emulator for Ghidra.
 
 ## x64dbg Plugins
 * [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
