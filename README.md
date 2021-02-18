@@ -5,6 +5,7 @@ A curated list of IDA x64DBG and OllyDBG plugins. [IDA](https://www.hex-rays.com
 
 <!--ts-->
    * [IDA Plugins](#IDA-Plugins)
+   * [Ghidra Plugins](#Ghidra-Plugins)
    * [X64dbg Plugins](#x64dbg-Plugins)
    * [OllyDBG Plugins](#OllyDBG-PLugins)
 <!--te-->
