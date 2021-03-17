@@ -52,6 +52,7 @@ plugin.
 * [CAPA Explorer](https://github.com/fireeye/capa/tree/master/capa/ida/plugin): Capa explorer is an IDA Pro plugin written in Python that integrates the FLARE team's open-source framework, capa, with IDA.
 * [Ghida](https://github.com/Cisco-Talos/GhIDA): GhIDA is an IDA Pro plugin that integrates the Ghidra decompiler in IDA.
 * [vt-ida-plugin](https://github.com/VirusTotal/vt-ida-plugin): This plugin integrates functionality from VirusTotal web services into the IDA Pro's user interface.
+* [Virtuailor](https://github.com/0xgalz/Virtuailor): IDAPython tool for C++ vtables reconstruction.
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
