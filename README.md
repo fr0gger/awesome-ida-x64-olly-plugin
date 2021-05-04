@@ -56,6 +56,7 @@ plugin.
 * [ipyda](https://github.com/eset/ipyida): PyIDA is a python-only solution to add an IPython console to IDA Pro.
 * [ComIDA](https://github.com/airbus-cert/comida): An IDA Plugin that help during the analysis of modules using COM.
 * [D810](https://gitlab.com/eshard/d810): D-810 is an IDA Pro plugin which can be used to deobfuscate code at decompilation time by modifying IDA Pro microcode.
+* [lumen](https://github.com/naim94a/lumen): A private Lumina server for IDA Pro.
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
