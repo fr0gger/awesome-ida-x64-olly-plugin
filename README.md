@@ -58,6 +58,7 @@ plugin.
 * [D810](https://gitlab.com/eshard/d810): D-810 is an IDA Pro plugin which can be used to deobfuscate code at decompilation time by modifying IDA Pro microcode.
 * [lumen](https://github.com/naim94a/lumen): A private Lumina server for IDA Pro.
 * [Hexrays Toolbox](https://github.com/patois/HexraysToolbox): Hexrays Toolbox is a script for the Hexrays Decompiler which can be used to find code patterns within decompiled code.
+* [HRDevHelper](https://github.com/patois/HRDevHelper): This plugin for the HexRays decompiler creates a graph of a decompiled function's AST using IDA's internal graph viewer. 
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
