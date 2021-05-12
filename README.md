@@ -59,6 +59,7 @@ plugin.
 * [lumen](https://github.com/naim94a/lumen): A private Lumina server for IDA Pro.
 * [Hexrays Toolbox](https://github.com/patois/HexraysToolbox): Hexrays Toolbox is a script for the Hexrays Decompiler which can be used to find code patterns within decompiled code.
 * [HRDevHelper](https://github.com/patois/HRDevHelper): This plugin for the HexRays decompiler creates a graph of a decompiled function's AST using IDA's internal graph viewer. 
+* [ida-minsc](https://github.com/arizvisa/ida-minsc): IDA-minsc is a plugin for IDA Pro that assists a user with scripting the IDAPython plugin that is bundled with the disassembler. 
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
