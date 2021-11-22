@@ -72,6 +72,7 @@ plugin.
 * [Findcrypt](https://github.com/d3v1l401/FindCrypt-Ghidra): IDA Pro's FindCrypt ported to Ghidra, with an updated and customizable signature database.
 * [Lazy Ghidra](https://github.com/AllsafeCyberSecurity/LazyGhidra): Make your Ghidra Lazy.
 * [Pcode Emulator](https://github.com/kc0bfv/pcode-emulator): A PCode Emulator for Ghidra.
+* [Awesome Ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra): A list of additionnal Ghidra plugins.
 
 ## x64dbg Plugins
 * [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
