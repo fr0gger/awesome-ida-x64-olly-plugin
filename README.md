@@ -65,6 +65,10 @@ plugin.
 * [flare-emu](https://github.com/fireeye/flare-emu): flare-emu marries a supported binary analysis framework, such as IDA Pro or Radare2, with Unicorn’s emulation framework to provide the user with an easy to use and flexible interface for scripting emulation tasks. 
 * [CTO (Call Tree Overviewer)](https://github.com/herosi/CTO): CTO (Call Tree Overviewer) is an IDA plugin for creating a simple and efficiant function call tree graph. It can also summarize function information such as internal function calls, API calls, static linked library function calls, unresolved function calls, string references, structure member accesses, specific comments.
 * [HashDB](https://github.com/OALabs/hashdb-ida): Malware string hash lookup plugin for IDA Pro. This plugin connects to the OALABS HashDB Lookup Service.
+* [deREferencing](https://github.com/danigargu/deREferencing): deReferencing is an IDA Pro plugin that implements new registers and stack views. Adds dereferenced pointers, colors and other useful information, similar to some GDB plugins (e.g: PEDA, GEF, pwndbg, etc).
+* [syms2elf](https://github.com/danigargu/syms2elf): The plugin export the symbols (for the moment only functions) recognized by IDA Pro and radare2 to the ELF symbol table.
+* [retdec-idaplugin](https://github.com/avast/retdec-idaplugin): RetDec plugin for IDA (Interactive Disassembler). The plugin comes at both 32-bit and 64-bit address space variants (both are 64-bit binaries).
+* [VMAttack](https://github.com/anatolikalysch/VMAttack): IDA Pro Plugin for static and dynamic virtualization-based packed analysis and deobfuscation.
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
