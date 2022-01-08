@@ -76,6 +76,10 @@ plugin.
 * [Findcrypt](https://github.com/d3v1l401/FindCrypt-Ghidra): IDA Pro's FindCrypt ported to Ghidra, with an updated and customizable signature database.
 * [Lazy Ghidra](https://github.com/AllsafeCyberSecurity/LazyGhidra): Make your Ghidra Lazy.
 * [Pcode Emulator](https://github.com/kc0bfv/pcode-emulator): A PCode Emulator for Ghidra.
+* [dragondance](https://github.com/0ffffffffh/dragondance): Dragon Dance is a plugin for Ghidra to get visualize and manipulate the binary code coverage data.
+* [ghidra_nodejs](https://github.com/PositiveTechnologies/ghidra_nodejs): Ghidra plugin to parse, disassemble and decompile NodeJS Bytenode (JSC) binaries. 
+* [cantordust](https://github.com/Battelle/cantordust): CantorDust is a binary visulization tool used to aid reverse engineering efforts. It allows humans to utilize their superior visual pattern recognition to identify patterns in binary data.
+* [ghidra-findcrypt](https://github.com/TorgoTorgo/ghidra-findcrypt): Ghidra analysis plugin to locate cryptographic constants (This is a re-write of another Ghidra FindCrypt script as an auto analysis module).
 * [Awesome Ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra): A list of additionnal Ghidra plugins.
 
 ## x64dbg Plugins
