@@ -1,4 +1,4 @@
-# Awesome IDA, Ghidra, x64DBG & OllyDBG plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome IDA, Ghidra, GDB, x64DBG & OllyDBG plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of IDA x64DBG and OllyDBG plugins. [IDA](https://www.hex-rays.com/products/ida/) is a powerful disassembler and debugger that allows to analyze binary, it also includes a decompiler. [X64DBG](https://x64dbg.com/#start) is an open-source x64/x32 debugger for Windows. [OllyDbg](http://www.ollydbg.de/) is a 32-bit assembler level analysing debugger for Windows.
 
 ## Content
@@ -8,6 +8,7 @@ A curated list of IDA x64DBG and OllyDBG plugins. [IDA](https://www.hex-rays.com
    * [Ghidra Plugins](#Ghidra-Plugins)
    * [X64dbg Plugins](#x64dbg-Plugins)
    * [OllyDBG Plugins](#OllyDBG-PLugins)
+   * [GDB Plugins](#GDB-PLugins)
 <!--te-->
 
 ## IDA Plugins
@@ -105,3 +106,10 @@ plugin.
 * [Phantom](https://tuts4you.com/download/1276/): Anti anti-debug trick.
 * [TLSCatch 0.3](https://tuts4you.com/download/3014/): This plugin simply intercepts any new module loaded into the current process address space, searches it for TLS callbacks.
 * [AnalyzeThis](https://tuts4you.com/download/2848/): Assisting for unpacking. 
+
+## GDB Plugins
+* [GEF](https://github.com/hugsy/gef): GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers.
+* [pwndbg](https://github.com/pwndbg/pwndbg): Pwndbg is a GDB plug-in that makes debugging with GDB suck less, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers and exploit developers.
+* [Voltron](https://github.com/snare/voltron): Voltron is an extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg)
+* [gdbghidra](https://github.com/Comsecuris/gdbghidra): gdbghidra - a visual bridge between a GDB session and GHIDRA
+* [angrgdb](https://github.com/andreafioraldi/angrgdb): Use angr inside GDB. Create an angr state from the current debugger state.
