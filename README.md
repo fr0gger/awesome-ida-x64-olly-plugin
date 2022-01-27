@@ -8,6 +8,7 @@ A curated list of IDA x64DBG and OllyDBG plugins. [IDA](https://www.hex-rays.com
    * [Ghidra Plugins](#Ghidra-Plugins)
    * [X64dbg Plugins](#x64dbg-Plugins)
    * [OllyDBG Plugins](#OllyDBG-PLugins)
+   * [GDB Plugins](#GDB-PLugins)
 <!--te-->
 
 ## IDA Plugins
@@ -65,6 +66,10 @@ plugin.
 * [flare-emu](https://github.com/fireeye/flare-emu): flare-emu marries a supported binary analysis framework, such as IDA Pro or Radare2, with Unicorn’s emulation framework to provide the user with an easy to use and flexible interface for scripting emulation tasks. 
 * [CTO (Call Tree Overviewer)](https://github.com/herosi/CTO): CTO (Call Tree Overviewer) is an IDA plugin for creating a simple and efficiant function call tree graph. It can also summarize function information such as internal function calls, API calls, static linked library function calls, unresolved function calls, string references, structure member accesses, specific comments.
 * [HashDB](https://github.com/OALabs/hashdb-ida): Malware string hash lookup plugin for IDA Pro. This plugin connects to the OALABS HashDB Lookup Service.
+* [deREferencing](https://github.com/danigargu/deREferencing): deReferencing is an IDA Pro plugin that implements new registers and stack views. Adds dereferenced pointers, colors and other useful information, similar to some GDB plugins (e.g: PEDA, GEF, pwndbg, etc).
+* [syms2elf](https://github.com/danigargu/syms2elf): The plugin export the symbols (for the moment only functions) recognized by IDA Pro and radare2 to the ELF symbol table.
+* [retdec-idaplugin](https://github.com/avast/retdec-idaplugin): RetDec plugin for IDA (Interactive Disassembler). The plugin comes at both 32-bit and 64-bit address space variants (both are 64-bit binaries).
+* [VMAttack](https://github.com/anatolikalysch/VMAttack): IDA Pro Plugin for static and dynamic virtualization-based packed analysis and deobfuscation.
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
@@ -72,6 +77,10 @@ plugin.
 * [Findcrypt](https://github.com/d3v1l401/FindCrypt-Ghidra): IDA Pro's FindCrypt ported to Ghidra, with an updated and customizable signature database.
 * [Lazy Ghidra](https://github.com/AllsafeCyberSecurity/LazyGhidra): Make your Ghidra Lazy.
 * [Pcode Emulator](https://github.com/kc0bfv/pcode-emulator): A PCode Emulator for Ghidra.
+* [dragondance](https://github.com/0ffffffffh/dragondance): Dragon Dance is a plugin for Ghidra to get visualize and manipulate the binary code coverage data.
+* [ghidra_nodejs](https://github.com/PositiveTechnologies/ghidra_nodejs): Ghidra plugin to parse, disassemble and decompile NodeJS Bytenode (JSC) binaries. 
+* [cantordust](https://github.com/Battelle/cantordust): CantorDust is a binary visulization tool used to aid reverse engineering efforts. It allows humans to utilize their superior visual pattern recognition to identify patterns in binary data.
+* [ghidra-findcrypt](https://github.com/TorgoTorgo/ghidra-findcrypt): Ghidra analysis plugin to locate cryptographic constants (This is a re-write of another Ghidra FindCrypt script as an auto analysis module).
 * [Awesome Ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra): A list of additionnal Ghidra plugins.
 
 ## x64dbg Plugins
@@ -97,3 +106,10 @@ plugin.
 * [Phantom](https://tuts4you.com/download/1276/): Anti anti-debug trick.
 * [TLSCatch 0.3](https://tuts4you.com/download/3014/): This plugin simply intercepts any new module loaded into the current process address space, searches it for TLS callbacks.
 * [AnalyzeThis](https://tuts4you.com/download/2848/): Assisting for unpacking. 
+
+## GDB Plugins
+* [GEF](https://github.com/hugsy/gef): GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers.
+* [pwndbg](https://github.com/pwndbg/pwndbg): Pwndbg is a GDB plug-in that makes debugging with GDB suck less, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers and exploit developers.
+* [Voltron](https://github.com/snare/voltron): Voltron is an extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg)
+* [gdbghidra](https://github.com/Comsecuris/gdbghidra): gdbghidra - a visual bridge between a GDB session and GHIDRA
+* [angrgdb](https://github.com/andreafioraldi/angrgdb): Use angr inside GDB. Create an angr state from the current debugger state.
