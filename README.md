@@ -75,7 +75,7 @@ plugin.
 * [retdec-idaplugin](https://github.com/avast/retdec-idaplugin): RetDec plugin for IDA (Interactive Disassembler). The plugin comes at both 32-bit and 64-bit address space variants (both are 64-bit binaries).
 * [VMAttack](https://github.com/anatolikalysch/VMAttack): IDA Pro Plugin for static and dynamic virtualization-based packed analysis and deobfuscation.
 * [BinCAT](https://github.com/airbus-seclab/bincat): Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection.
-* [ttddbg - Time Travel Debugging IDA plugin]([https://github.com/airbus-seclab/bincat](https://github.com/airbus-cert/ttddbg): This plugin adds a new debugger to IDA which supports loading Time Travel Debugging traces generated using WinDBG Preview.
+* [ttddbg - Time Travel Debugging IDA plugin](https://github.com/airbus-cert/ttddbg): This plugin adds a new debugger to IDA which supports loading Time Travel Debugging traces generated using WinDBG Preview.
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
