@@ -104,7 +104,8 @@ plugin.
 * [Highlightfish](https://github.com/Insid3CodeTeam/Highlightfish): Plugin to customize x64dbg.
 * [TitanHide](https://github.com/mrexodia/TitanHide): It is a driver intended to hide debuggers from certain processes.
 * [idenLibX](https://github.com/secrary/idenLibX): [idenLib](https://github.com/secrary/idenLib) (Library Function Identification ) plugin for `x32dbg`/`x64dbg`
-* [Official x64dbg plugins](https://github.com/x64dbg/x64dbg/wiki/Plugins): Official repository of the x64dbg debugger plugins. 
+* [Official x64dbg plugins](https://github.com/x64dbg/x64dbg/wiki/Plugins): Official repository of the x64dbg debugger plugins.
+* [x64dbgpy](https://github.com/x64dbg/x64dbgpy): Automating x64dbg using Python, Snapshots.
 
 ## OllyDBG Plugins
 * [OllyDumpEx](https://tuts4you.com/download/3451/): This plugin is process memory dumper for OllyDbg.
