@@ -106,6 +106,7 @@ plugin.
 * [idenLibX](https://github.com/secrary/idenLibX): [idenLib](https://github.com/secrary/idenLib) (Library Function Identification ) plugin for `x32dbg`/`x64dbg`
 * [Official x64dbg plugins](https://github.com/x64dbg/x64dbg/wiki/Plugins): Official repository of the x64dbg debugger plugins.
 * [x64dbgpy](https://github.com/x64dbg/x64dbgpy): Automating x64dbg using Python, Snapshots.
+* [Ghidrathon](https://github.com/mandiant/Ghidrathon): Ghidrathon is a Ghidra extension that adds Python 3 scripting capabilities to Ghidra.
 
 ## OllyDBG Plugins
 * [OllyDumpEx](https://tuts4you.com/download/3451/): This plugin is process memory dumper for OllyDbg.
