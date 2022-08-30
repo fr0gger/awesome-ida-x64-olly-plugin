@@ -88,6 +88,7 @@ plugin.
 * [cantordust](https://github.com/Battelle/cantordust): CantorDust is a binary visulization tool used to aid reverse engineering efforts. It allows humans to utilize their superior visual pattern recognition to identify patterns in binary data.
 * [ghidra-findcrypt](https://github.com/TorgoTorgo/ghidra-findcrypt): Ghidra analysis plugin to locate cryptographic constants (This is a re-write of another Ghidra FindCrypt script as an auto analysis module).
 * [Awesome Ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra): A list of additionnal Ghidra plugins.
+* [Ghidrathon](https://github.com/mandiant/Ghidrathon): Ghidrathon is a Ghidra extension that adds Python 3 scripting capabilities to Ghidra.
 
 ## x64dbg Plugins
 * [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
@@ -106,7 +107,6 @@ plugin.
 * [idenLibX](https://github.com/secrary/idenLibX): [idenLib](https://github.com/secrary/idenLib) (Library Function Identification ) plugin for `x32dbg`/`x64dbg`
 * [Official x64dbg plugins](https://github.com/x64dbg/x64dbg/wiki/Plugins): Official repository of the x64dbg debugger plugins.
 * [x64dbgpy](https://github.com/x64dbg/x64dbgpy): Automating x64dbg using Python, Snapshots.
-* [Ghidrathon](https://github.com/mandiant/Ghidrathon): Ghidrathon is a Ghidra extension that adds Python 3 scripting capabilities to Ghidra.
 
 ## OllyDBG Plugins
 * [OllyDumpEx](https://tuts4you.com/download/3451/): This plugin is process memory dumper for OllyDbg.
