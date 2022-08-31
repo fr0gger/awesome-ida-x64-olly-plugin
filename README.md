@@ -76,6 +76,7 @@ plugin.
 * [VMAttack](https://github.com/anatolikalysch/VMAttack): IDA Pro Plugin for static and dynamic virtualization-based packed analysis and deobfuscation.
 * [BinCAT](https://github.com/airbus-seclab/bincat): Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection.
 * [ttddbg - Time Travel Debugging IDA plugin](https://github.com/airbus-cert/ttddbg): This plugin adds a new debugger to IDA which supports loading Time Travel Debugging traces generated using WinDBG Preview.
+* [IDA Plugin List](https://vmallet.github.io/ida-plugins/): An additional list that contains multiple IDA plugin.
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
