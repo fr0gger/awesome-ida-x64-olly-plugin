@@ -77,6 +77,8 @@ plugin.
 * [BinCAT](https://github.com/airbus-seclab/bincat): Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection.
 * [ttddbg - Time Travel Debugging IDA plugin](https://github.com/airbus-cert/ttddbg): This plugin adds a new debugger to IDA which supports loading Time Travel Debugging traces generated using WinDBG Preview.
 * [IDA Plugin List](https://vmallet.github.io/ida-plugins/): An additional list that contains multiple IDA plugin.
+* [Gepetto](https://github.com/JusticeRage/Gepetto): Gepetto is a Python script which uses OpenAI's ChatGPT to provide meaning to functions decompiled by IDA Pro.
+
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
