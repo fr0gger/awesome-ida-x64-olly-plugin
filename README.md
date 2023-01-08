@@ -93,6 +93,7 @@ plugin.
 * [ghidra-findcrypt](https://github.com/TorgoTorgo/ghidra-findcrypt): Ghidra analysis plugin to locate cryptographic constants (This is a re-write of another Ghidra FindCrypt script as an auto analysis module).
 * [Awesome Ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra): A list of additionnal Ghidra plugins.
 * [Ghidrathon](https://github.com/mandiant/Ghidrathon): Ghidrathon is a Ghidra extension that adds Python 3 scripting capabilities to Ghidra.
+* [GptHidra](https://github.com/evyatar9/GptHidra): GptHidra is a Ghidra plugin that uses the OpenAI Chat GPT to explain functions. With GptHidra, you can easily understand the purpose and behavior of functions in your codebase.
 
 ## x64dbg Plugins
 * [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
