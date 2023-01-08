@@ -78,6 +78,7 @@ plugin.
 * [ttddbg - Time Travel Debugging IDA plugin](https://github.com/airbus-cert/ttddbg): This plugin adds a new debugger to IDA which supports loading Time Travel Debugging traces generated using WinDBG Preview.
 * [IDA Plugin List](https://vmallet.github.io/ida-plugins/): An additional list that contains multiple IDA plugin.
 * [Gepetto](https://github.com/JusticeRage/Gepetto): Gepetto is a Python script which uses OpenAI's ChatGPT to provide meaning to functions decompiled by IDA Pro.
+* [DAILA](https://github.com/mahaloz/DAILA): A decompiler-unified plugin for accessing the OpenAI API to improve your decompilation experience
 
 
 ## Ghidra Plugins
