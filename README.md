@@ -79,7 +79,7 @@ plugin.
 * [IDA Plugin List](https://vmallet.github.io/ida-plugins/): An additional list that contains multiple IDA plugin.
 * [Gepetto](https://github.com/JusticeRage/Gepetto): Gepetto is a Python script which uses OpenAI's ChatGPT to provide meaning to functions decompiled by IDA Pro.
 * [DAILA](https://github.com/mahaloz/DAILA): A decompiler-unified plugin for accessing the OpenAI API to improve your decompilation experience
-
+* [VulChatGPT](https://github.com/ke0z/VulChatGPT): Use IDA PRO HexRays decompiler with OpenAI(ChatGPT) to find possible vulnerabilities in binaries.
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
