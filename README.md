@@ -1,5 +1,5 @@
-# Awesome IDA, Ghidra, x64DBG & OllyDBG plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of IDA x64DBG and OllyDBG plugins. [IDA](https://www.hex-rays.com/products/ida/) is a powerful disassembler and debugger that allows to analyze binary, it also includes a decompiler. [X64DBG](https://x64dbg.com/#start) is an open-source x64/x32 debugger for Windows. [OllyDbg](http://www.ollydbg.de/) is a 32-bit assembler level analysing debugger for Windows.
+# Awesome IDA, Ghidra, x64DBG, GDB & OllyDBG plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of IDA, x64DBG, Ghidra, GDB and OllyDBG plugins. [IDA](https://www.hex-rays.com/products/ida/) is a powerful disassembler and debugger that allows to analyze binary, it also includes a decompiler. [X64DBG](https://x64dbg.com/#start) is an open-source x64/x32 debugger for Windows. [OllyDbg](http://www.ollydbg.de/) is a 32-bit assembler level analysing debugger for Windows.
 
 ## Content
 
