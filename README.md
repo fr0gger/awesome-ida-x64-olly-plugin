@@ -113,6 +113,7 @@ plugin.
 * [idenLibX](https://github.com/secrary/idenLibX): [idenLib](https://github.com/secrary/idenLib) (Library Function Identification ) plugin for `x32dbg`/`x64dbg`
 * [Official x64dbg plugins](https://github.com/x64dbg/x64dbg/wiki/Plugins): Official repository of the x64dbg debugger plugins.
 * [x64dbgpy](https://github.com/x64dbg/x64dbgpy): Automating x64dbg using Python, Snapshots.
+* [Multiline Ultimate Assembler](https://ramensoftware.com/multimate-assembler): A multiline (and ultimate) assembler (and disassembler) plugin for x64dbg and OllyDbg. A perfect tool for modifying and extending a compiled executable functionality.
 
 ## OllyDBG Plugins
 * [OllyDumpEx](https://tuts4you.com/download/3451/): This plugin is process memory dumper for OllyDbg.
@@ -120,6 +121,7 @@ plugin.
 * [Phantom](https://tuts4you.com/download/1276/): Anti anti-debug trick.
 * [TLSCatch 0.3](https://tuts4you.com/download/3014/): This plugin simply intercepts any new module loaded into the current process address space, searches it for TLS callbacks.
 * [AnalyzeThis](https://tuts4you.com/download/2848/): Assisting for unpacking. 
+* [Multiline Ultimate Assembler](https://ramensoftware.com/multimate-assembler): A multiline (and ultimate) assembler (and disassembler) plugin for x64dbg and OllyDbg. A perfect tool for modifying and extending a compiled executable functionality.
 
 ## GDB Plugins
 * [GEF](https://github.com/hugsy/gef): GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers.
