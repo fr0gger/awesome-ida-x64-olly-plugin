@@ -94,7 +94,7 @@ plugin.
 * [Awesome Ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra): A list of additionnal Ghidra plugins.
 * [Ghidrathon](https://github.com/mandiant/Ghidrathon): Ghidrathon is a Ghidra extension that adds Python 3 scripting capabilities to Ghidra.
 * [GptHidra](https://github.com/evyatar9/GptHidra): GptHidra is a Ghidra plugin that uses the OpenAI Chat GPT to explain functions. With GptHidra, you can easily understand the purpose and behavior of functions in your codebase.
-* [Replica](https://github.com/reb311ion/replica): Ghidra Analysis Enhancer - Automatically enhance Ghidra's aut analysis with additional scripts and features.
+* [Replica](https://github.com/reb311ion/replica): Ghidra Analysis Enhancer - Automatically enhance Ghidra's auto analysis with additional scripts and features.
 
 ## x64dbg Plugins
 * [Checksec](https://github.com/klks/checksec): x64dbg plugin to check security settings.
