@@ -82,6 +82,7 @@ plugin.
 * [VulChatGPT](https://github.com/ke0z/VulChatGPT): Use IDA PRO HexRays decompiler with OpenAI(ChatGPT) to find possible vulnerabilities in binaries.
 * [gooMBA](https://github.com/HexRaysSA/goomba): gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions.
 * [NOP_Plugin](https://github.com/RussianPanda95/NOP_Plugin): Plugin for NOPing instructions in IDA.
+* [Copilot for IDA Pro](https://github.com/Antelcat/ida_copilot): ChatGPT Agent analyses your IDA pseudocode.
 
 
 ## Ghidra Plugins
