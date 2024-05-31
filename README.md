@@ -83,6 +83,7 @@ plugin.
 * [gooMBA](https://github.com/HexRaysSA/goomba): gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions.
 * [NOP_Plugin](https://github.com/RussianPanda95/NOP_Plugin): Plugin for NOPing instructions in IDA.
 * [Copilot for IDA Pro](https://github.com/Antelcat/ida_copilot): ChatGPT Agent analyses your IDA pseudocode.
+* [YaraForge](https://github.com/zhaoxinnZ/YaraForge): A plugin that integrated capa explorer's scanning result and using mkYARA's rule generation logic to automatic export yara rules.
 
 
 ## Ghidra Plugins
