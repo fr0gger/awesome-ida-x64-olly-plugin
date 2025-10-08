@@ -83,11 +83,15 @@ plugin.
 * [gooMBA](https://github.com/HexRaysSA/goomba): gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions.
 * [NOP_Plugin](https://github.com/RussianPanda95/NOP_Plugin): Plugin for NOPing instructions in IDA.
 * [Copilot for IDA Pro](https://github.com/Antelcat/ida_copilot): ChatGPT Agent analyses your IDA pseudocode.
-
+* [idalib](https://github.com/binarly-io/idalib): Idiomatic Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.x's idalib
+* [rhabdomancer](https://github.com/0xdea/rhabdomancer): Headless plugin for vulnerability research that locates calls to potentially insecure API functions in a binary file.
+* [haruspex](https://github.com/0xdea/haruspex): Headless plugin for vulnerability research that extracts pseudocode from the IDA Hex-Rays decompiler.
+* [augur](https://github.com/0xdea/augur): Headless plugin for reverse engineering that extracts strings and related pseudocode from a binary file.
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
-* [Ghidra Scripts 2](https://github.com/AllsafeCyberSecurity/ghidra_scripts): Ghidra script for malware analysis. 
+* [Ghidra Scripts 2](https://github.com/AllsafeCyberSecurity/ghidra_scripts): Ghidra script for malware analysis.
+* [Ghidra Scripts 3](https://github.com/0xdea/ghidra-scripts): A collection of Ghidra scripts to facilitate reverse engineering and vulnerability research.
 * [Findcrypt](https://github.com/d3v1l401/FindCrypt-Ghidra): IDA Pro's FindCrypt ported to Ghidra, with an updated and customizable signature database.
 * [Lazy Ghidra](https://github.com/AllsafeCyberSecurity/LazyGhidra): Make your Ghidra Lazy.
 * [Pcode Emulator](https://github.com/kc0bfv/pcode-emulator): A PCode Emulator for Ghidra.
