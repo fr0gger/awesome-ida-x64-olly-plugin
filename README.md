@@ -87,6 +87,7 @@ plugin.
 * [rhabdomancer](https://github.com/0xdea/rhabdomancer): Headless plugin for vulnerability research that locates calls to potentially insecure API functions in a binary file.
 * [haruspex](https://github.com/0xdea/haruspex): Headless plugin for vulnerability research that extracts pseudocode from the IDA Hex-Rays decompiler.
 * [augur](https://github.com/0xdea/augur): Headless plugin for reverse engineering that extracts strings and related pseudocode from a binary file.
+* [ida-hive](https://github.com/yynps737/ida-hive): Native multi-instance IDA Pro MCP server (Rust + C++). 60 AI tools, up to 100 concurrent analysis sessions via idalib headless. Zero Python dependency.
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
@@ -124,6 +125,7 @@ plugin.
 * [x64dbgpy](https://github.com/x64dbg/x64dbgpy): Automating x64dbg using Python, Snapshots.
 * [Multiline Ultimate Assembler](https://ramensoftware.com/multimate-assembler): A multiline (and ultimate) assembler (and disassembler) plugin for x64dbg and OllyDbg. A perfect tool for modifying and extending a compiled executable functionality.
 * [x64dbg MCP Server](https://github.com/bromoket/x64dbg_mcp): MCP server giving AI assistants (Claude, Cursor, Windsurf) full control over x64dbg. 152 tools for debugging, disassembly, tracing, memory analysis, anti-debug bypass, and control flow graphs.
+* [x64dbg-hive](https://github.com/yynps737/x64dbg-hive): Native x64dbg MCP server (C++ plugin + Rust). 92 AI debugging tools covering disassembly, breakpoints, memory, registers, tracing, anti-debug, PE analysis. Zero external dependencies.
 
 ## OllyDBG Plugins
 * [OllyDumpEx](https://tuts4you.com/download/3451/): This plugin is process memory dumper for OllyDbg.
