@@ -83,6 +83,7 @@ plugin.
 * [gooMBA](https://github.com/HexRaysSA/goomba): gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions.
 * [NOP_Plugin](https://github.com/RussianPanda95/NOP_Plugin): Plugin for NOPing instructions in IDA.
 * [Copilot for IDA Pro](https://github.com/Antelcat/ida_copilot): ChatGPT Agent analyses your IDA pseudocode.
+* [IDA-CLI](https://github.com/ze-mu-zhou/IDACLI): AI-only JSONL kernel for IDA Pro, exposing persistent IDAPython sessions to Codex and Claude Code agents.
 * [idalib](https://github.com/binarly-io/idalib): Idiomatic Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.x's idalib
 * [rhabdomancer](https://github.com/0xdea/rhabdomancer): Headless plugin for vulnerability research that locates calls to potentially insecure API functions in a binary file.
 * [haruspex](https://github.com/0xdea/haruspex): Headless plugin for vulnerability research that extracts pseudocode from the IDA Hex-Rays decompiler.
