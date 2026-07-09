@@ -87,6 +87,7 @@ plugin.
 * [rhabdomancer](https://github.com/0xdea/rhabdomancer): Headless plugin for vulnerability research that locates calls to potentially insecure API functions in a binary file.
 * [haruspex](https://github.com/0xdea/haruspex): Headless plugin for vulnerability research that extracts pseudocode from the IDA Hex-Rays decompiler.
 * [augur](https://github.com/0xdea/augur): Headless plugin for reverse engineering that extracts strings and related pseudocode from a binary file.
+* [idamesh](https://github.com/JordanRO2/idamesh): Model Context Protocol (MCP) server for IDA Pro that exposes the disassembler and Hex-Rays decompiler to MCP clients (Claude and others) — decompile, cross-refs, call graphs, type/struct inspection, search, and rename/comment/retype/patch edits. Ships a resident GUI plugin that serves MCP over the live database and a supervisor to front multiple IDBs behind one endpoint (Streamable HTTP + stdio).
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
